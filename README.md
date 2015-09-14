@@ -1,5 +1,11 @@
 # HelloPhoenix
 
+Built following the [Phoenix Guides](http://www.phoenixframework.org/docs/overview).
+
+WebSockets Chat client running [on Heroku](https://polar-temple-6763.herokuapp.com/hello).
+
+## Usage
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
